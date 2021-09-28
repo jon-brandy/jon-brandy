@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello There ☕
 
 - 📖 I’m currently studying on Binus University.
 - 🌱 I’m currently learning HTML, CSS, C and JavaScript.
