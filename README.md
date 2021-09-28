@@ -4,3 +4,5 @@
 - 🌱 I’m currently learning HTML, CSS, C and JavaScript.
 - 📫 How to reach me: instagram : @saputra.nicolas_
 - 🔥 Fun fact: I love beatboxing and basketball, also i'm a gamer.
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Brandy969&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
