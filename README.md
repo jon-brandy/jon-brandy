@@ -5,3 +5,5 @@
 - 📫 How to reach me: E-mail --> saputranicolas96@gmail.com
 
 <img src = "https://github-readme-stats.vercel.app/api?username=Brandy969&&show_icons=true&title_color=A52A2A&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=Brandy969&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
