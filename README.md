@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning HTML, CSS, C and Python.
 - 📫 How to reach me : saputranicolas96@gmail.com
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Brandy969&show_icons=true&theme=radical" />
+<img src = "https://github-readme-stats.vercel.app/api?username=jon-brandy&show_icons=true&theme=radical" />
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Brandy969&layout=compact"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jon-brandy&layout=compact"/>
 
 <img align = "left" src ="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img align = "left" src ="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
