@@ -1,7 +1,7 @@
 ### Hello There ☕
 
 - 📖 I’m currently studying on Binus University.
-- 🌱 I’m currently learning HTML, CSS, C and Python.
+- 🌱 I’m currently learning HTML, CSS, C, and Python.
 - 📫 How to reach me : saputranicolas96@gmail.com
 
 <img src = "https://github-readme-stats.vercel.app/api?username=jon-brandy&show_icons=true&theme=radical" />
