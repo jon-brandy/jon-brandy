@@ -2,7 +2,7 @@
 
 - 📖 I’m currently studying on Binus University.
 - 🌱 I’m currently learning HTML, CSS, C, and Python.
-- 💻 [My LinkedIn](https://www.linkedin.com/in/nicsap/) [My Instagram](https://www.instagram.com/saputra.nicolas_/)
+- 💻 [My LinkedIn](https://www.linkedin.com/in/nicsap/) , [My Instagram](https://www.instagram.com/saputra.nicolas_/)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=jon-brandy&show_icons=true&theme=radical" />
 
