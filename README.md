@@ -1,7 +1,7 @@
 ### Hello There ☕
 
-- 📖 I’m currently studying on Binus University.
-- 🌱 I’m currently learning HTML, CSS, C, and Python.
+- 📖 Currently studying at Binus University.
+- 🌱 Majoring Cyber Security.
 - 💻 [My LinkedIn](https://www.linkedin.com/in/nicsap/) , [My Instagram](https://www.instagram.com/saputra.nicolas_/)
 
 <img src = "https://github-readme-stats.vercel.app/api?username=jon-brandy&show_icons=true&theme=radical" />
