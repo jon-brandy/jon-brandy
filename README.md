@@ -9,7 +9,7 @@ I am a Cyber ​​Security student at Bina Nusantara University. I am eager to 
 * ✉️  You can contact me at [saputranicolas96@gmail.com](mailto:saputranicolas96@gmail.com)
 * 🧠  I'm learning BurpSuite, JavaScript, and React JS.
 * 🤝  I'm open to collaborating on Web Project.
-* ⚡  Big fans of Peaky Blinders series.
+* ⚡  Big fan of Peaky Blinders series.
 
 ### Skills
 
