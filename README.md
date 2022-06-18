@@ -7,9 +7,7 @@ I am a Cyber ​​Security student at Bina Nusantara University. I am eager to 
 * 🌍  I'm based in Indonesia.
 * 🖥️  See my portfolio at [My linkedIn](http://www.linkedin.com/in/nicsap/).
 * ✉️  You can contact me at [saputranicolas96@gmail.com](mailto:saputranicolas96@gmail.com)
-* 🧠  Recently learning BurpSuite, JavaScript, and React JS.
-* 🤝  I'm open to collaborating on Web Project.
-* ⚡  Big fan of Peaky Blinders series.
+* 🧠  JavaScript and React JS.
 
 ### Coding & Programming Skills
 
