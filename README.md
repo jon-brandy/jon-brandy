@@ -1,5 +1,5 @@
-Hi 👋 My name is Nicolas Saputra Gunawan
-========================================
+Nicolas Saputra Gunawan
+=======================
 
 > College Student ╏ Cyber Enthusiast 
 
