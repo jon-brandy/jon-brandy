@@ -1,7 +1,8 @@
 Hi 👋 My name is Nicolas Saputra Gunawan
 ========================================
-College Student ╏ Cyber Enthusiast 
-----------------------------------
+
+> College Student ╏ Cyber Enthusiast 
+
 
 ### Coding & Programming Skills
 
