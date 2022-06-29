@@ -3,10 +3,6 @@ Hi 👋 My name is Nicolas Saputra Gunawan
 College Student ╏ Cyber Enthusiast 
 ----------------------------------
 
-I am a Cyber ​​Security student at Bina Nusantara University. I am eager to secure challenging roles in Cyber ​​Security.
-* 🖥️  See my portfolio at [My linkedIn](http://www.linkedin.com/in/nicsap/).
-* ✉️  You can contact me at [saputranicolas96@gmail.com](mailto:saputranicolas96@gmail.com)
-
 ### Coding & Programming Skills
 
 <p align="left">
