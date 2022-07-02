@@ -23,7 +23,7 @@
 
 
 <p align="left">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=j&layout=compact"/>
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jon-brandy&layout=compact"/>
 </p>
 
 
