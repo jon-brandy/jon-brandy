@@ -1,7 +1,7 @@
 ☕ - Nicolas Saputra Gunawan
 =============================
 
-> College Student ╏ Cyber Enthusiast ╏ Grey Jedi
+> College Student ╏ Cyber Enthusiast
 
 <div align="left">
 <a href="https://www.linkedin.com/in/nicsap/" target="_blank">
