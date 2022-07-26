@@ -1,7 +1,7 @@
 ☕ - Nicolas Saputra Gunawan
 =============================
 
-> College Student ╏ Cyber Enthusiast
+> College Student ╏ Digital Forencis & Web Exploit Enthusiast
 
 <div align="left">
 <a href="https://www.linkedin.com/in/nicsap/" target="_blank">
