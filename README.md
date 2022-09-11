@@ -1,4 +1,4 @@
-👋 - Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy.
+## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy.
 =================================================================
 
 > College Student 
