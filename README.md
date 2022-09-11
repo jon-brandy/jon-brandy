@@ -1,6 +1,6 @@
 ## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy 👋.
 
-> College Student | CTF Player 
+> Cyber Security Student | CTF Player 
 
 
 
