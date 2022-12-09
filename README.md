@@ -1,4 +1,4 @@
-## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy or sariroti 👋.
+## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy 👋.
 
 > Cyber Security Student | RnD Staff at CSC BINUS | Founder of BAY
 
