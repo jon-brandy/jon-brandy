@@ -28,4 +28,4 @@
 
 <a href="http://www.github.com/jon-brandy"><img src="https://github-readme-stats.vercel.app/api?username=jon-brandy&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="jon-brandy's GitHub stats" /></a>
 
-<a href="http://www.github.com/jon-brandy"><img src="https://activity-graph.herokuapp.com/graph?username=jon-brandy&bg_color=1c1917&color=ffffff&line=ef4444&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
