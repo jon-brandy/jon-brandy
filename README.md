@@ -1,6 +1,6 @@
 ## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy 👋.
 
-> Cyber Security Student | RnD Staff at CSC BINUS | Founder of BAY | Bug Hunter
+> Cyber Security Student ╎ RnD Staff at CSC BINUS ╎ Founder of BAY ╎ Bug Hunter
 
 
 
