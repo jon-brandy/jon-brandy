@@ -1,7 +1,5 @@
 ## Hi there! i'm Nicolas Saputra Gunawan, also known as Brandy 👋.
 
-> Cyber Security Student ╎ Sub-Coordinator of RND at CSC BINUS ╎ Founder of BAY ╎ Bug Hunter
-
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jon-brandy&layout=compact"/>
 </p>
