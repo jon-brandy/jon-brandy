@@ -1,12 +1,14 @@
 ### Hi there 👋
 
-I'm Nicolas Saputra Gunawan also known as Brandy and I'm a Cyber Security Analyst 💻 at [PT. Defender Nusa Semesta (Defenxor)](https://www.defenxor.com/) 🏢
+## About Me
 
-<p align="justify">As an undergraduate cybersecurity student, I am deeply passionate about the field and excel in hands-on challenges. My interests are focused on Network Penetration Testing, Endpoint Forensic, Memory Forensic, and Malware Analysis, where I aim to make a significant impact.</p>
+<p align="justify">I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Cyber Security Analyst** at [PT. Defender Nusa Semesta (Defenxor)](https://www.defenxor.com/).</p>
 
-<p align="justify">I demonstrate my passion for cybersecurity through active participation in Capture The Flag (CTF) competitions. As a member of BINUS University's official CTF team, PETIR, I have contributed to numerous national and international victories. Within PETIR, I lead the Binary Exploitation stream and have developed several challenges for national university competitions, specializing in Stack and Heap Exploitation binaries.</p>
+<p align="justify">As an undergraduate cybersecurity student, I am deeply passionate about the field and excel in hands-on challenges. My primary areas of interest include **Network Penetration Testing**, **Endpoint Forensics**, **Memory Forensics**, and **Malware Analysis**, where I am committed to making a meaningful impact.</p>
 
-<p align="justify">Additionally, I am a member of the international CTF team, ImaginaryCTF, where I contribute weekly PWN challenges and in their annual CTF event, held publicly on CTFtime.</p>
+<p align="justify">I actively engage with the cybersecurity community through participation in **Capture The Flag (CTF)** competitions and the creation of CTF challenges, specializing in **PWN** and **Forensics**. Additionally, I share my knowledge by developing and publishing **CTF challenges**, **machines**, and **DFIR cases** on [GitHub](https://github.com/) and [Medium](https://medium.com/).</p>
+
+<p align="justify">I am also a proud member of the international CTF team, **ImaginaryCTF**, where I contribute **weekly PWN challenges** and take part in their **annual CTF event**, hosted publicly on [CTFtime](https://ctftime.org/).</p>
 
 
 My current side project is [Plaguards](https://github.com/Bread-Yolk/plaguards)
