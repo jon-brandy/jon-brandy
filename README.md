@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## About Me
+## Hi there 👋
 
 I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Cyber Security Analyst** at [PT. Defender Nusa Semesta (Defenxor)](https://www.defenxor.com/).
 
