@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Cyber Security Analyst** at [PT. Defender Nusa Semesta (Defenxor)](https://www.defenxor.com/).
+I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Junior Digital Forensic Consultant** at [PT. ITSEC Asia Tbk)](https://itsec.asia/).
 
 <p align="justify">As an undergraduate cybersecurity student, I am deeply passionate about the field and excel in hands-on challenges. My primary areas of interest include Network Penetration Testing, Endpoint Forensics, Memory Forensics, and Malware Analysis, where I am committed to making a meaningful impact.</p>
 
