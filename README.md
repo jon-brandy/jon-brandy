@@ -2,7 +2,7 @@
 
 I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Junior Digital Forensic Consultant** at [PT. ITSEC Asia Tbk)](https://itsec.asia/).
 
-<p align="justify">As an undergraduate cybersecurity student, I am deeply passionate about the field and excel in hands-on challenges. My primary areas of interest include Network Penetration Testing, Endpoint Forensics, Memory Forensics, and Malware Analysis, where I am committed to making a meaningful impact.</p>
+<p align="justify">I am deeply passionate about the field and excel in hands-on challenges. My primary areas of interest include Network Penetration Testing, Endpoint Forensics, Memory Forensics, and Malware Analysis, where I am committed to making a meaningful impact.</p>
 
 <p align="justify">I actively engage with the cybersecurity community through participation in Capture The Flag (CTF) competitions and the creation of CTF challenges, specializing in PWN and Forensics. Additionally, I share my knowledge by developing and publishing CTF challenges, machines, and DFIR cases on Github and Medium.</p>
 
