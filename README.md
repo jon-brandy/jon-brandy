@@ -11,9 +11,6 @@ I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Junior Digital F
 
 My current side project is [Plaguards](https://github.com/Bread-Yolk/plaguards)
 
-[LinkedIn Page💼](https://www.linkedin.com/in/nicsap/)
-
-[Email 📬](mailto:saputranicolas96@gmail.com)
 
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jon-brandy&layout=compact"/>
