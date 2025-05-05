@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### 🔒 Cybersecurity Enthusiast | DFIR Consultant | Offensive & Defensive Content Engineer
-I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Junior Digital Forensic & Incident Response (DFIR) Consultant** at [PT. ITSEC Asia Tbk)](https://itsec.asia/). I am a fresh graduate in Cybersecurity with a strong passion for Digital Forensics & Incident Response (DFIR), Malware Analysis, and Binary Exploitation. As an active member of the international CTF teams ImaginaryCTF and Lil L3ak, I contribute to challenge creation and frequently solve problems in PWN and Forensics categories. I'm eager to further develop my skills and secure a cybersecurity role where I can make a meaningful impact and help defend against real-world threats.
+I am **Nicolas Saputra Gunawan**, also known as **Brandy**, a **Junior Digital Forensic & Incident Response (DFIR) Consultant** at [PT. ITSEC Asia Tbk)](https://itsec.asia/). A fresh graduate in Cybersecurity with a strong passion for DFIR, Malware Analysis, and Binary Exploitation. As an active member of the international CTF teams ImaginaryCTF and Lil L3ak, I contribute to challenge creation and frequently solve problems in PWN and Forensics categories. I'm eager to further develop my skills and secure a cybersecurity role where I can make a meaningful impact and help defend against real-world threats.
 
 ### 📜 Certifications:
 - ECC - Computer Hacking Forensic Invesigator (CHFIv11).
