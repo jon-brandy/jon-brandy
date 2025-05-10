@@ -13,7 +13,10 @@
 - Certified Cloud Security Practitioner AWS (CCSP-AWS).
 - Certified Network Security Practitioner (CNSP).
 - Certified Appsec Practitioner (CAP).
-  
+
+🎯 FYI:
+
+I absolutely enjoy writing HackTheBox writeups on machines, Sherlocks, and solving PWN CTF challenges. You can find some of my work on my [Repo](https://github.com/jon-brandy/hackthebox), where I share my solutions and knowledge.
 
 <p align="left">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jon-brandy&layout=compact"/>
