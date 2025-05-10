@@ -14,7 +14,7 @@
 - Certified Network Security Practitioner (CNSP).
 - Certified Appsec Practitioner (CAP).
 
-🎯 FYI:
+### 🎯 FYI:
 
 I absolutely enjoy writing HackTheBox writeups on machines, Sherlocks, and solving PWN CTF challenges. You can find some of my work on my [Repo](https://github.com/jon-brandy/hackthebox), where I share my solutions and knowledge.
 
