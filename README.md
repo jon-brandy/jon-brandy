@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔒 DFIR Consultant | Offensive & Defensive Content Engineer | Black Hat Asia 2025 Arsenal Speaker
+### 🔒 DFIR Consultant | Offensive & Defensive Content Engineer | Black Hat Asia & USA 2025 Arsenal Speaker
 
 <p align="justify"> I am <b>Nicolas Saputra Gunawan</b>, also known as <b>Brandy</b>, a <b>Junior Digital Forensic & Incident Response (DFIR) Consultant</b> at PT. ITSEC Asia Tbk. A fresh graduate in Cybersecurity with a strong passion for DFIR, Malware Analysis, and Binary Exploitation. As an active member of the international CTF teams ImaginaryCTF and Lil L3ak, I contribute to challenge creation and frequently solve problems in PWN and Forensics categories. I'm eager to further develop my skills and secure a cybersecurity role where I can make a meaningful impact and help defend against real-world threats. </p>
 
