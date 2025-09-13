@@ -12,10 +12,10 @@
  cybersecurity role where I can make a meaningful impact in defending digital infrastructure.</p>
 
 ### 📜 Certifications:
-- ECC - Computer Hacking Forensic Invesigator (CHFIv11).
+- EC Council - Computer Hacking Forensic Invesigator (CHFIv11).
 - eLearn Certified Digital Forensics Professional (eCDFPv2).
-- ECC - Certified Incident Handler (ECIHv3).
-- ECC - Digital Forensics Professional (DFEv1).
+- EC Council - Certified Incident Handler (ECIHv3).
+- EC Council - Digital Forensics Professional (DFEv1).
 - Certified Mobile Penetration Tester - Android (CMPen).
 - Certified Cloud Security Practitioner AWS (CCSP-AWS).
 - Certified Network Security Practitioner (CNSP).
