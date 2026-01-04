@@ -12,6 +12,7 @@
  cybersecurity role where I can make a meaningful impact in defending digital infrastructure.</p>
 
 ### 📜 Certifications:
+- Team T5 - Certified Threat Hunting Professional (T5-CTHP).
 - EC Council - Computer Hacking Forensic Invesigator (CHFIv11).
 - eLearn Certified Digital Forensics Professional (eCDFPv2).
 - EC Council - Certified Incident Handler (ECIHv3).
