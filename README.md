@@ -2,14 +2,11 @@
 
 ### 🔒 DFIR Consultant | Defensive Content Engineer | Black Hat Asia & USA 2025 Arsenal Speaker
 
-<p align="justify"> I am a fresh graduate in Cybersecurity with a strong passion for Digital Forensics & Incident Response
- (DFIR), Malware Analysis, and Binary Exploitation. As an active member of the international CTF teams
- ImaginaryCTF, I contribute to challenge development and consistently engage in solving problems in the
- PWN and Forensics categories.</p>
- 
- <p align="justify">Beyond competitions, I regularly create both offensive and defensive cybersecurity content engineering
- practical scenarios, tools, and educational materials. I’m eager to continue growing in the field and secure a
- cybersecurity role where I can make a meaningful impact in defending digital infrastructure.</p>
+<p align="justify"></p>I am a Digital Forensics & Incident Response (DFIR) Consultant at ITSEC Asia, with a primary focus on malware analysis. My work involves conducting cyber incident investigations to understand attacker behavior and impact, as well as analyzing identified malware samples. I also contribute as a Defensive Content Engineer at TryHackMe, creating hands-on content to help others learn practical DFIR and security concepts.</p>
+
+<p align="justify">I presented a DFIR research tool as an Arsenal speaker at Black Hat Asia and Black Hat USA 2025. In addition, I serve as a Subject Matter Expert (SME) for Digital Forensics at EC-Council. >My background includes participation in CTF teams such as BINUS PETIR, Lil Leak, and ImaginaryCTF, where I focused on Binary Exploitation (PWN) and Forensics. I have also contributed to CTF challenge development for national and international competitions.</p>
+
+<p align="justify">I believe that learning never exhausts the mind, and I continuously strive to deepen my understanding of cybersecurity through both practice and research.</p>
 
 ### 📜 Certifications:
 - Team T5 - Certified Threat Hunting Professional (T5-CTHP).
