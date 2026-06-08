@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### 🔒 DFIR Consultant | Defensive Content Engineer | Black Hat Asia & USA 2025 Arsenal Speaker
+### 🔒 DFIR Consultant | Defensive Content Engineer | Black Hat Arsenal Speaker (USA & Asia ’25)
 
 <p align="justify"></p>I am a <b>Digital Forensics & Incident Response (DFIR) Consultant at ITSEC Asia</b>, with a primary focus on malware analysis. My work involves conducting cyber incident investigations to understand attacker behavior and impact, as well as analyzing identified malware samples. I also contribute as a <b>Defensive Content Engineer at TryHackMe</b>, creating hands-on content to help others learn practical DFIR and security concepts.</p>
 
